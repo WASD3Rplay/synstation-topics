@@ -12,3 +12,6 @@ Predict the Winner of the 2024-2025 NBA Playoffs
 
 ### Source:  
 [NBA Standings](https://www.nba.com/standings)
+
+### Ending Date
+2025/6/6 23:59 UTC
