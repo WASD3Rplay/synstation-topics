@@ -19,3 +19,6 @@ Which team will be crowned the **La Liga champion** at the end of the **2024-202
 
 ### Source:  
 [La Liga Official Standings](https://www.laliga.com/)
+
+### Ending Date
+2025/5/30 23:59 UTC (Tentative)
