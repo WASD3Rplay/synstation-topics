@@ -12,3 +12,6 @@ Predict the Winner of the 2025 KBO Korean Series
 
 ### Source:  
 [KBO Official Website](https://www.koreabaseball.com/Default.aspx)
+
+### Ending Date
+2025/10/31 23:59 UTC (Tentative)
