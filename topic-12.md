@@ -14,3 +14,6 @@ Predict the Value of the DXY Index at 15:00 EST on March 17, 2025
 ### Source:  
 - [US Dollar Index Futures (ICE)](https://www.ice.com/products/194/US-Dollar-Index-Futures)  
 - [U.S. Dollar Currency Index - DXY Chart (TradingView)](https://www.tradingview.com/symbols/ICEUS-DXY/)
+
+### Ending Date
+2025/3/17 19:00 UTC
