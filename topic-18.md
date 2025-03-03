@@ -16,3 +16,6 @@ Predict the Ratio of Affirmative Votes for Each Candidate in the 2025 Korean Pre
 
 ### Source:  
 - The official election outcome will be published by the **Korean National Election Commission (선관위)**.
+
+### Ending Date
+2025/7/1 23:59 UTC (Tentative)
