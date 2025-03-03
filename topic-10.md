@@ -12,3 +12,6 @@ Predict the Winner of the 2025 NPB Nippon Series
 
 ### Source:  
 [NPB Official Website](https://npb.jp/eng/)
+
+### Ending Date
+2025/11/3 23:59 UTC (Tentative)
