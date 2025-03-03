@@ -12,3 +12,6 @@ Predict the Winner of the 2024-2025 English Premier League
 
 ### Source:  
 [Premier League Table, Form Guide & Season Archives](https://www.premierleague.com/tables)
+
+### Ending Date
+2025/5/30 23:59 UTC (Tentative)
