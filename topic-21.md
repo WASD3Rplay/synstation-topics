@@ -11,3 +11,6 @@
 
 ### Source:  
 [YouTube](https://www.youtube.com/)
+
+### Ending Date
+2025/6/30 23:59 UTC (Tentative)
