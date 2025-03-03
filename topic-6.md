@@ -12,3 +12,6 @@ Predict the Winner of the 2024-2025 UEFA Champions League
 
 ### Source:  
 [Bracket View | UEFA Champions League 2024/25](https://www.uefa.com/uefachampionsleague/fixtures-results/bracket/)
+
+### Ending Date
+2025/6/1 23:59 UTC (Tentative)
