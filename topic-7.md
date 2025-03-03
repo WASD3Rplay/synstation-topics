@@ -12,3 +12,6 @@ Predict the Winner of the 2025 MLB Playoffs
 
 ### Source:  
 [MLB Official Website](https://www.mlb.com/)
+
+### Ending Date
+2025/11/2 23:59 UTC (Tentative)
