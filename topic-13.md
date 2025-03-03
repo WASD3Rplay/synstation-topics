@@ -12,3 +12,6 @@ Predict the Price of BTC on Coinbase at 08:00 UTC on March 28, 2025
 
 ### Source:  
 - [BTC Futures Chart on TradingView](https://www.tradingview.com/symbols/CME-BTC1!/)
+
+### Ending Date
+2025/3/28 23:59 UTC
