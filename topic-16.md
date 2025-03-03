@@ -10,3 +10,6 @@ Predict the total amount of Trump’s World Liberty Financial (WLFI) token sold 
 ### Sources:
 - [TransparentUpgradeableProxy | Etherscan](https://etherscan.io/address/0xe217e15b3c19cc0427f9492dc3bcfe8220afad10)  
 - [World Liberty Financial Token Sale](https://www.worldlibertyfinancial.com/intl/token-sale)
+
+### Ending Date
+2025/12/31 23:59 UTC
