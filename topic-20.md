@@ -10,3 +10,6 @@ Will SOL flip ETH in 2025?
 ### Source:  
 [ETH Market Cap](https://www.tradingview.com/symbols/ETH/)
 [SOL Market Cap](https://www.tradingview.com/symbols/SOL/)
+
+### Ending Date
+2025/12/31 23:59 UTC
