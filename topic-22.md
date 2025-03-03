@@ -11,3 +11,6 @@ Will 'Stranger Things' achieve at least 3 music show wins during its promotional
 
 ### Source:  
 Official social media accounts of the respective music shows
+
+### Ending Date
+2025/6/30 23:59 UTC (Tentative)
