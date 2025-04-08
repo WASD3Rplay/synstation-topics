@@ -27,5 +27,3 @@ Will NewJeans officially resume activities under ADOR's management **without pro
 
 ### 📅 Market Resolution Date:
 - **December 31, 2025, at 11:59 PM UTC**
-
-Cast your predictions and join the discussion below! ⬇️
