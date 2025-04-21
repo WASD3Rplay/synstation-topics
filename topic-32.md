@@ -1,6 +1,6 @@
 ## 🏙️ Will ETHGlobal Host a Hackathon in Dubai in 2026?
 
-Dubai has become a global Web3 magnet—home to major conferences, investor hubs, and crypto-native regulations. Yet, **ETHGlobal has never hosted an event in the city**. With MENA developer activity rising and Gulf states pouring investment into innovation, will 2026 be the year Dubai finally joins the ETHGlobal circuit?
+ETHGlobal has never hosted a hackathon in Dubai, despite the city being a major hub for the crypto community and regarded as one of the top crypto cities in the world. The question remains: are there enough builders to support hosting one there?
 
 ### 💡 Why This Topic?
 - 🌍 **Dubai’s Crypto Momentum**  

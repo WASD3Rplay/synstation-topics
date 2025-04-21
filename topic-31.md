@@ -1,6 +1,6 @@
 ## 🇫🇷 Will EthCC Return to Paris in 2026?
 
-The Ethereum Community Conference (EthCC) has long called Paris home—until now. In 2025, for the first time, EthCC moves to Cannes, sparking community concerns over accessibility, higher travel costs, and limited lodging. While some welcome the change, others are calling for a return to the capital in 2026. Will the Ethereum community reunite in **Paris** next year—or will the Côte d’Azur become the new norm?
+ETHCC is holding its 8th edition in Cannes for the first time, departing from its traditional Paris venue—a change that has drawn criticism as the Ethereum community grapples with higher costs and limited accommodation options.
 
 ### 💡 Why This Topic?
 - 🏛️ **Historical Significance:**  

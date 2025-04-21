@@ -1,6 +1,7 @@
 ## 🗽 NFT NYC & Permissionless: 1,500+ Side Events?
 
-New York City will host **NFT NYC** and **Permissionless IV** in June 2025—two of the largest Web3 gatherings globally. With NYC already housing the highest concentration of crypto companies in the world, and the Trump-era regulatory tailwinds igniting industry confidence, the city is expected to overflow with afterparties, satellite activations, and DAO pop-ups. But will the total number of **side events exceed 1,500** in a single week?
+New York has solidified its position as a global crypto hub, attracting more crypto company headquarters than any other city. With recent Trump-era regulations paving the way, the upcoming week of NFT NYC and Permissionless is expected to draw massive crowds. The only question is — how many?
+
 
 ### 💡 Why This Topic?
 - 🏙️ **Crypto Capital of the World:**  

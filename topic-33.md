@@ -1,6 +1,6 @@
 ## 🇰🇷 Will Korea Blockchain Week 2025 Surpass 500 Side Events?
 
-**Korea Blockchain Week** (KBW) has quickly become Asia’s flagship blockchain conference. In 2024, over **300 side events** filled Seoul’s districts with KOLs, VCs, and DAO-funded meetups. With its prime placement between WebX (Japan) and Token2049 (Singapore), the question isn’t whether KBW will grow—it’s whether it will explode past **500 side events** in 2025.
+Korea Blockchain Week has established itself as a major player among blockchain events in Asia. Strategically positioned between WebX Asia and Token2049 Singapore, it draws a diverse crowd from across the continent—including KOLs and institutional players.
 
 ### 💡 Why This Topic?
 - 🌐 **Regional Powerhouse:**  
