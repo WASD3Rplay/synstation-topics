@@ -1,4 +1,4 @@
-## 🪙 What Will Ethereum's Price Be on October 1, 2025?
+## What Will Ethereum's Price Be on October 1, 2025?
 
 Ethereum has experienced dramatic price swings in both directions this year. As one of the world's most attended crypto events approaches, the question looms: where will the price stand?
 
