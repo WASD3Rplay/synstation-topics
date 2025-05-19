@@ -1,4 +1,4 @@
-## 🗽 NFT NYC & Permissionless: 1,500+ Side Events?
+## NFT NYC & Permissionless: 1,500+ Side Events?
 
 New York has solidified its position as a global crypto hub, attracting more crypto company headquarters than any other city. With recent Trump-era regulations paving the way, the upcoming week of NFT NYC and Permissionless is expected to draw massive crowds. The only question is — how many?
 
