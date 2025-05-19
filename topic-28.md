@@ -1,4 +1,4 @@
-## 🎤 NewJeans Return to ADOR?
+## NewJeans Return to ADOR?
 
 Will NewJeans officially resume activities under ADOR's management **without producer Min Hee-jin** by December 31, 2025?
 

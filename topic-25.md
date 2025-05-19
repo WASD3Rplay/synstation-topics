@@ -1,6 +1,6 @@
-## Mickey 17 Global Box Office Break Even? 🎬
+## Mickey 17 Global Box Office Break Even?
 
-Will Bong Joon-ho’s sci-fi film **"Mickey 17"**, starring Robert Pattinson, surpass **$118 million** in global box office revenue by **April 30, 2025**?
+Will Bong Joon-ho's sci-fi film **"Mickey 17"**, starring Robert Pattinson, surpass **$118 million** in global box office revenue by **April 30, 2025**?
 
 ### Market Rules:
 1. **Winning Condition (YES Resolution):**  

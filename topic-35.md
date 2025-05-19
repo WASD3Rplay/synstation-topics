@@ -1,9 +1,9 @@
-## Will Argentina’s President Javier Milei Speak at a Devconnect 2025 Event?
+## Will Argentina's President Javier Milei Speak at a Devconnect 2025 Event?
 
 Argentinian President Javier Milei was initially celebrated by the crypto community for his anti-inflation stance and pro-crypto policies. However, his involvement in the controversial Libra token—widely seen as a rug pull by many—has made him an increasingly polarizing figure, even within the crypto space.
 
 ### 💡 Why This Topic?
-- 🧠 **Ideological Match:** Milei’s anti-inflation stance aligns with crypto-native ideals.
+- 🧠 **Ideological Match:** Milei's anti-inflation stance aligns with crypto-native ideals.
 - 📉 **Libra Scandal Fallout:** Some community members see him as a fraud, others as a reformer.
 - 🌍 **Buenos Aires Momentum:** Argentina is hosting Devconnect—if ever there were a time for Milei to appear, this is it.
 

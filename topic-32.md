@@ -3,7 +3,7 @@
 ETHGlobal has never hosted a hackathon in Dubai, despite the city being a major hub for the crypto community and regarded as one of the top crypto cities in the world. The question remains: are there enough builders to support hosting one there?
 
 ### 💡 Why This Topic?
-- 🌍 **Dubai’s Crypto Momentum**  
+- 🌍 **Dubai's Crypto Momentum**  
   Dubai is home to major Web3 conferences and startups, but still lacks an ETHGlobal presence.
 - 🏗️ **World-Class Infrastructure**  
   With top-tier venues, air travel access, and government support, Dubai is highly prepared to host global builders.

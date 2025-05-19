@@ -1,4 +1,4 @@
-## Soneium TVL over $100M or not? 🚀
+## Soneium TVL over $100M or not?
 
 Will Soneium's Total Value Locked (TVL) surpass **$100 million USD** by the end of March?
 
@@ -13,10 +13,10 @@ Will Soneium's Total Value Locked (TVL) surpass **$100 million USD** by the end 
   In case of data unavailability, the market resolution will be delayed until verified data becomes available from reliable DeFi analytics sources.
 
 ### 📊 Current TVL:
-- As of today, Soneium’s TVL is approximately **$78M**.
+- As of today, Soneium's TVL is approximately **$78M**.
 
 ### 💡 Why This Topic?
-- 🚀 Soneium’s Rapid Growth on Sony Blockchain
+- 🚀 Soneium's Rapid Growth on Sony Blockchain
 - 📈 Key milestone reflecting ecosystem adoption
 - 🪙 Investor and community sentiment indicator
 

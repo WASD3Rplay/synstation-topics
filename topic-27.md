@@ -1,4 +1,4 @@
-## 🎯 Will Soneium Hit 10 Million Wallets by April 30, 2025?
+## Will Soneium Hit 10 Million Wallets by April 30, 2025?
 
 Hey SynStation community! Soneium is rapidly growing, and here's your chance to predict its next big milestone:
 

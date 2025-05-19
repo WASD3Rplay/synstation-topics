@@ -1,4 +1,4 @@
-## tripleS ‘Stranger Things’ Triple Crown
+## tripleS 'Stranger Things' Triple Crown
 
 Will 'Stranger Things' achieve at least 3 music show wins during its promotional period?
 

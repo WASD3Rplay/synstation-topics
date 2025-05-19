@@ -1,4 +1,4 @@
-## 🌟 IU for Baeksang Best Actress?
+## IU for Baeksang Best Actress?
 
 Will IU win the **"Best Actress"** award at the **61st Baeksang Arts Awards** on **May 5, 2025**, for her performance in *"When Life Gives You Tangerines"* (폭싹 속았수다)?
 
@@ -26,7 +26,7 @@ Will IU win the **"Best Actress"** award at the **61st Baeksang Arts Awards** on
 - [Allkpop](https://www.allkpop.com/)
 
 ### 💡 Why this topic?
-- 💖 **IU’s standout performance** in a globally popular Netflix drama
+- 💖 **IU's standout performance** in a globally popular Netflix drama
 - 🏆 Competitive lineup featuring top Korean actresses
 - 📈 Anticipation surrounding prestigious award results
 

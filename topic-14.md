@@ -1,4 +1,4 @@
-Predict Who Will Rank #2 Yapper on KAITO’s 7-Day (7D) CT Leaderboard
+Predict Who Will Rank #2 Yapper on KAITO's 7-Day (7D) CT Leaderboard
 
 ### Market Rules:
 1. **Winning Option:**  

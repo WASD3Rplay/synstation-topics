@@ -1,4 +1,4 @@
-Predict Which AI Agent Will Rank #2 on KAITO’s 7-Day (7D) AI Agent Leaderboard
+Predict Which AI Agent Will Rank #2 on KAITO's 7-Day (7D) AI Agent Leaderboard
 
 ### Market Rules:
 1. **Winning Option:**  

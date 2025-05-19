@@ -1,6 +1,6 @@
 ## Can tripleS' "Stranger Things" Beat 6.4M views in 5 Days?
 
-“Girls Never Die” reached 6.4 million by YouTube views within 5 days of release. Does ‘Stranger Things’ surpass 6.4 million YouTube views within 5 days?
+“Girls Never Die” reached 6.4 million by YouTube views within 5 days of release. Does 'Stranger Things' surpass 6.4 million YouTube views within 5 days?
 
 ### Market Rules:
 1. **Winning Condition (YES Resolution):**  
