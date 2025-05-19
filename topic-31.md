@@ -1,4 +1,4 @@
-## 🇫🇷 Will EthCC Return to Paris in 2026?
+## Will EthCC Return to Paris in 2026?
 
 ETHCC is holding its 8th edition in Cannes for the first time, departing from its traditional Paris venue—a change that has drawn criticism as the Ethereum community grapples with higher costs and limited accommodation options.
 
