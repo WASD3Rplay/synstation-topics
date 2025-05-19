@@ -1,4 +1,4 @@
-## 🇰🇷 Will Korea Blockchain Week 2025 Surpass 500 Side Events?
+## Will Korea Blockchain Week 2025 Surpass 500 Side Events?
 
 Korea Blockchain Week has established itself as a major player among blockchain events in Asia. Strategically positioned between WebX Asia and Token2049 Singapore, it draws a diverse crowd from across the continent—including KOLs and institutional players.
 
